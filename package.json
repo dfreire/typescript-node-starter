@@ -1,0 +1,24 @@
+{
+  "name": "typescript-node-starter",
+  "version": "0.0.1",
+  "description": "A boilerplate for node.js projects written in typescript.",
+  "main": "lib/index.js",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfreire/typescript-node-starter.git"
+  },
+  "keywords": [],
+  "author": "dario.freire@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfreire/typescript-node-starter/issues"
+  },
+  "homepage": "https://github.com/dfreire/typescript-node-starter#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.0",
+    "typescript": "^2.1.5"
+  }
+}
