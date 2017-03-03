@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A boilerplate for node.js projects written in typescript.",
   "main": "lib/index.js",
+  "typings": "lib/index",
   "scripts": {
     "compile": "tsc"
   },
