@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "dario.freire@gmail.com",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/dfreire/typescript-node-starter/issues"
   },
