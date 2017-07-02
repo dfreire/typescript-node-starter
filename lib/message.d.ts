@@ -1,1 +1,1 @@
-export declare function message(): string;
+export declare function message(): Promise<string>;
